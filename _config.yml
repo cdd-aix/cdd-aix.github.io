@@ -1,0 +1,12 @@
+# Site settings
+title: "Off-Label Use"
+email: chris.dukes.aix@gmail.com
+description: "Chris Dukes Technology Blog"
+baseurl: ""
+#url: "http://yourdomain.com"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
