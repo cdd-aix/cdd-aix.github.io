@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Scrapy Backburnered."
-categories: education,scrapy,zypper
+tags: education scrapy zypper
 ---
 
 Two projects for learning scrapy are now on the back burner

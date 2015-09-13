@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Every Bug is Great!"
-categories: bugs,reporting
+tags: bugs reporting
 ---
 Vendor software colors the challenges at my workplace.
 Some software provides bugs as challenges.

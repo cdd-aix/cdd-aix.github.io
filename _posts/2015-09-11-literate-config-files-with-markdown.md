@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Literate Config Files with Markdown"
-categories: config,data-sync
+tags: config data-sync
 ---
 Premise:
 

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Critical Thinking Despite Okay SOPs"
-categories: SOP,skilling
+tags: SOP skilling
 ---
 # Critical Thinking Despite Okay SOPs
 [Writing a Better SOP](http://cuddletech.com/?p=776) has become a reference

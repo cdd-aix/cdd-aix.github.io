@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Why Yes, You Could Make Your Job Sound More Repellant"
-categories: hr,hiring,job-postings
+tags: hr hiring job-postings
 ---
 At a fairly young age I became the IT type.
 I liked solving problems that mattered.

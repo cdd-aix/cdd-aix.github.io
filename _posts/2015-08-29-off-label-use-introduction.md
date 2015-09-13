@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Off-Label Use Introduction"
-categories: intro
+tags: intro
 ---
 Github is intended to aid social coding.  However, git plus github
 flavored markdown provides a convenient way to manage a blog with history.

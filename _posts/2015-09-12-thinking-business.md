@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Thinking Business"
-categories: business,agriculture,sgproduce
+tags: business agriculture sgproduce
 ---
 The farm related things have moved to [Squirrely Girl Produce](https://sgproduce.github.io/).
 
