@@ -10,6 +10,8 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 permalink: pretty
+# Other
+tag_title_prefix: '&ldquo;'
 defaults:
   -
     scope:

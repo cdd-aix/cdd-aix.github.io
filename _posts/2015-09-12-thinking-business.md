@@ -1,6 +1,6 @@
 ---
 title: "Thinking Business"
-tags: business agriculture sgproduce
+tags: skills business
 ---
 The farm related things have moved to [Squirrely Girl Produce](https://sgproduce.github.io/).
 

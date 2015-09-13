@@ -1,6 +1,6 @@
 ---
 title: "Learning Hadoop the Hard Way"
-tags: hadoop hortonworks docker dns
+tags: skills
 ---
 Hadoop finally struck my fancy when I figured out that bosun
 relied on opentsdb which relied on hbase which relied on zookeeper and

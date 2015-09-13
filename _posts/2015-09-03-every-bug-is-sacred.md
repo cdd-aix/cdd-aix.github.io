@@ -1,6 +1,6 @@
 ---
 title: "Every Bug is Great!"
-tags: bugs reporting
+tags: skills bugs
 ---
 Vendor software colors the challenges at my workplace.
 Some software provides bugs as challenges.

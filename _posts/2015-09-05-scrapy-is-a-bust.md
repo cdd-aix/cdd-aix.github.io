@@ -1,6 +1,6 @@
 ---
 title: "Scrapy Backburnered."
-tags: education scrapy zypper
+tags: skills
 ---
 
 Two projects for learning scrapy are now on the back burner

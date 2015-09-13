@@ -1,6 +1,6 @@
 ---
 title: "Literate Config Files with Markdown"
-tags: config data-sync
+tags: skills code
 ---
 Premise:
 

@@ -1,6 +1,6 @@
 ---
 title: "I Have to Go Through How Many Jump Hosts?"
-tags: ssh layered-security inconvenience
+tags: skills code 
 ---
 The challenges of DMZ security theatre have reared their heads at work.  It remains theatre until auditd is enabled and configured on the jump hosts.
 
