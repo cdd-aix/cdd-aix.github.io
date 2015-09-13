@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Registrator:  All That Is Old in Service Discovery is New Again!"
-categories: discovery dns hesiod
+categories: discovery,dns,hesiod,docker
 ---
 I hit a painful hard stop with Ambari under Docker.
 Ambari depends on quality name services on the server and client to work.
