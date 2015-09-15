@@ -6,7 +6,7 @@ permalink: /about/
 
 Chris Dukes' celebration of [off-label use](https://en.wikipedia.org/wiki/Off-label_use) of technlogy.
 
-Chris is a 
+Chris is a
 * Forensic sysadmin, programmer, debugger
 * Part time poultry farmer
 
