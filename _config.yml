@@ -11,8 +11,17 @@ github_username:  cdd-aix
 markdown: kramdown
 permalink: pretty
 # Other
-tag_title_prefix: '&ldquo;'
+collections:
+  TODO:
+    output: true
+
 defaults:
+  -
+    scope:
+      path: ""
+      type: ""
+    values:
+      layout: "page"
   -
     scope:
       path: ""
@@ -25,3 +34,9 @@ defaults:
       type: "post"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "TODO"
+    values:
+      layout: "page"
