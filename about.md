@@ -13,4 +13,4 @@ Chris is a
 
 He is seeking opportunites with new problems to solve.  His resume is 
 available
-[here](https://docs.google.com/document/d/1hNE0nzj_UbkpaskGGsW_6Z4G55Iyp8eSnLgpfN7dC9A/edit?usp=sharing)
+[here.](https://docs.google.com/document/d/1hNE0nzj_UbkpaskGGsW_6Z4G55Iyp8eSnLgpfN7dC9A/edit?usp=sharing)
