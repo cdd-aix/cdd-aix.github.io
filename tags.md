@@ -1,5 +1,6 @@
 ---
 title: Tags
+layout: page
 ---
 {% assign tags = site.tags | sort %}
 # Table of Contents
