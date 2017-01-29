@@ -2,41 +2,75 @@
 title: "Off-Label Use"
 email: chris.dukes.aix@gmail.com
 description: "Chris Dukes Technology Blog"
-baseurl: ""
+theme: minima
 #url: "http://yourdomain.com"
 #twitter_username: jekyllrb
-github_username:  cdd-aix
+#github_username:  cdd-aix
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-# Other
-collections:
-  TODO:
-    output: true
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: cdd-aix/cdd-aix.github.io
+gems:
+  - jekyll
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - github-pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - TODO.md
+  - vendor
+
+timezone: America/New_York
 
 defaults:
   -
-    scope:
+    scope: 
       path: ""
-      type: ""
     values:
-      layout: "page"
+      layout: "default"
+
   -
     scope:
-      path: ""
-      type: "posts"
+      path: "/posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "post"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "TODO"
-    values:
-      layout: "page"
+
+#permalink: pretty
+# Other
+#collections:
+#  TODO:
+#    output: true
+#
+#
+
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: ""
+#    values:
+#      layout: "page"
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "post"
+#  -
+#    scope:
+#      path: ""
+#      type: "post"
+#    values:
+#      layout: "post"
+#  -
+#    scope:
+#      path: ""
+#      type: "TODO"
+#    values:
+#      layout: "page"

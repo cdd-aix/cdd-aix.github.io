@@ -1,5 +1,7 @@
 ---
 title: "Debian, ZFS Root, Systemd, Docker"
+date: 2017-01-19 20:41:00 -0500
+categories: zfs docker
 ---
 
 I run FreeBSD for ZFS and was fascinated by Docker on FreeBSD.
