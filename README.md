@@ -2,4 +2,4 @@
 
 Resumes and Cover Letters for Chris Dukes
 
-## [Current Resume](current-resume.md)
+## [Current Resume](resumes/2018-02-04.md)
