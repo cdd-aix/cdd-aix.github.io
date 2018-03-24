@@ -24,6 +24,9 @@ github_username:  cdd-aix
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 theme: minima
 plugins:
   - jekyll-feed
@@ -32,6 +35,10 @@ collections:
   resumes:
     output: true
     title: Resumes
+
+  TODO:
+    output: true
+    title: TODO
 
 defaults:
   -
