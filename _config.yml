@@ -29,7 +29,12 @@ kramdown:
   hard_wrap: false
 theme: minima
 plugins:
+  - github-pages
+  - jekyll
   - jekyll-feed
+  - jekyll-sitemap
+
+permalink: pretty
 
 collections:
   resumes:
