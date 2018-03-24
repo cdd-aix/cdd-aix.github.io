@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TODO
+permalink: /TODO/
 states: ["in_progress", "added", "done"]
 pretty_states: ['', "In Progress", "Added", "Done"]
 ---
@@ -10,7 +11,7 @@ pretty_states: ['', "In Progress", "Added", "Done"]
 ## {{page.pretty_states[forloop.index]}}
 {% for todo in todos %}
 {% if todo.state == state %}
-* [{{todo.date | date:"%F"}} {{todo.title}}]({{todo.url}})
+* [{{todo.date | date:"%Y %b %d: "}} {{todo.title}}]({{todo.url}})
 {% endif %}
 {% endfor %}
 {% endfor %}
