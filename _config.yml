@@ -28,11 +28,18 @@ kramdown:
   input: GFM
   hard_wrap: false
 theme: minima
+minima:
+  date_format: '%Y %b %d'
 plugins:
   - github-pages
   - jekyll
   - jekyll-feed
   - jekyll-sitemap
+
+header_pages:
+  - about.md
+  - TODO.md
+  - resumes.md
 
 permalink: pretty
 
