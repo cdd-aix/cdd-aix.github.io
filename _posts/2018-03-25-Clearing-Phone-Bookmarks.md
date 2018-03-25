@@ -19,7 +19,7 @@ date: 2018-03-25 15:48
 * Write clearly and concisely
 * Test all cases
 
-## [Image hasing with OpenCV and Python](https://www.pyimagesearch.com/2017/11/27/image-hashing-opencv-python/)
+## [Image Hashing with OpenCV and Python](https://www.pyimagesearch.com/2017/11/27/image-hashing-opencv-python/)
 
 ## [Useful Docker Images - Part 1](https://rehansaeed.com/useful-docker-images-part1/)
 * [Docker Swarm Visualizer](https://hub.docker.com/r/dockersamples/visualizer/)
