@@ -2,6 +2,9 @@
 title: Clearing Phone Bookmarks
 date: 2018-03-25 15:48
 ---
+Moving the bookmarks from the phone to a permanent location.
+
+
 ## [10 Basic Programming Principles Every Programmer Must Follow](https://www.makeuseof.com/tag/basic-programming-principles/)
 1. KISS
 1. DRY
