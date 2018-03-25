@@ -24,6 +24,8 @@ github_username:  cdd-aix
 
 show_excerpts: true
 
+timezone: America/New_York
+
 # Build settings
 markdown: kramdown
 kramdown:
