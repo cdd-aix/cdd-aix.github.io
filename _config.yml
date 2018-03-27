@@ -51,7 +51,6 @@ permalink: pretty
 collections:
   resumes:
     output: true
-    title: Resumes
 
   TODO:
     output: true
