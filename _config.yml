@@ -44,7 +44,7 @@ header_pages:
   - about.md
   - posts.md
   - TODO.md
-  - resumes.md
+  - resume.md
 
 permalink: pretty
 
