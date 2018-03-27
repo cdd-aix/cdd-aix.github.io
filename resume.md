@@ -3,6 +3,7 @@ layout: page
 title: Resume - Recruiters Please Read
 permalink: /current-resume/
 ---
+
 {% assign disclaimers = site.pages | where: "type", "disclaimer" %}
 {% for disclaimer in disclaimers limit: 1 %}
 {{ disclaimer.content }}
