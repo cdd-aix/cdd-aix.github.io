@@ -3,6 +3,7 @@ title: Job Search Disclaimer
 date: 2018-03-25 15:22
 type: disclaimer
 ---
+
 Before you contact me:  I am currently happily employed at Qualcomm.  
 Tempting me away will be would be difficult.  Qualcomm provides handsome rewards for my skills and services.  
 I only consider alternative offers that are sufficiently compensated, more interesting, and less evil.
