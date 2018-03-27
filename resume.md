@@ -11,7 +11,7 @@ permalink: /current-resume/
 {% assign date_format = site.date_format | default: '%Y %b %d' %}
 {% assign resumes = site.resumes | sort: 'date' | reverse %}
 {% for resume in resumes limit: 1 %}
-{{ resume.date | date: date_format }}
+Resume last updated:  [{{ resume.date | date: date_format }}]({{resume.url}})
 
 {{resume.content}}
 {% endfor %}
