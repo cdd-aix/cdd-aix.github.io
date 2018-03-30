@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Resume - Recruiters Please Read
-permalink: /resume/
+permalink: /resumes/
 ---
-{% assign resume = site.resumes.first %}
-{% assign content = resume.content %}
-{{ content }}
+{% assign date_format = site.date_format | default: '%Y %b %d' %}
+{% for resume in site.resumes %}
+#### [{{ resume.date | date: date_format}} {{resume.title}}]({{resume.url}})
+{% endfor %}
