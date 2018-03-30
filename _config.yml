@@ -38,6 +38,13 @@ plugins:
   - github-pages
   - jekyll
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+whitelist:
+  - github-pages
+  - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 header_pages:

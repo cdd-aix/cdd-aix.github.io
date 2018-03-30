@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Resume - Recruiters Please Read
-permalink: /current-resume/
+permalink: /resume/
+redirect_from:
+ - /current-resume/
 ---
 
 {% assign disclaimers = site.pages | where: "type", "disclaimer" %}
