@@ -1,6 +1,6 @@
 ---
 title: Clearing Phone Bookmarks Part 3
-Date: 2018-03-29 14:00
+date: 2018-03-29 14:00
 ---
 And a third rounding clearing phone cruft
 
