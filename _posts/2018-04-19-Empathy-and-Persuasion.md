@@ -1,5 +1,5 @@
 ---
-title: Psychology:  Empathy and Persuasion
+title: "Psychology:  Empathy and Persuasion"
 date: 2018-04-19
 ---
 If I told the story, it would be rationalization.
