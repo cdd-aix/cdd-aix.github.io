@@ -11,7 +11,7 @@ redirect_from:
 {{ disclaimer.content }}
 {% endfor %}
 {% assign date_format = site.date_format | default: '%Y %b %d' %}
-{% assign resumes = site.resumes | sort: 'date' | reverse %}
+{% assign resumes = site.resumes | where_exp: "item", "item.categories contains 'resume'" | sort: 'date' | reverse %}
 {% for resume in resumes limit: 1 %}
 Resume last updated:  [{{ resume.date | date: date_format }}]({{resume.url}})
 
